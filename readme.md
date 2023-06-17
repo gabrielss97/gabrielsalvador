@@ -32,6 +32,13 @@
   />
   <img
     align="center"
+    alt="Angular"
+    height="30"
+    width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
+  />
+  <img
+    align="center"
     alt="HTML"
     height="30"
     width="40"
