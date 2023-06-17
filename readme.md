@@ -5,6 +5,9 @@
 - Contato: gabriel.ssalvador97@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gabriel-ssalvador/
 
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielss97&show_icons=true)
+
+
 ## Linguagens
 
 <div style="display: inline_block">
